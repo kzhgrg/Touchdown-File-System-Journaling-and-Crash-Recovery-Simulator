@@ -1,0 +1,17 @@
+{
+  "mode": true,
+  "crashed": false,
+  "pending": null,
+  "events": [
+    {
+      "time": "03:01:12",
+      "message": "Fresh virtual disk ready. Journaling is enabled."
+    }
+  ],
+  "stats": {
+    "completed": 0,
+    "crashes": 0,
+    "recoveries": 0,
+    "replayed": 0
+  }
+}
